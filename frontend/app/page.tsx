@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://mars-unified-dashboard.onrender.com";
 
 // Maps a raw MCP tool name to the human-facing server it belongs to.
 const TOOL_TO_SERVER: Record<string, string> = {
