@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Guest Talk: Careers in AI",
+    "date": "2026-06-18",
+    "time": "15:30",
+    "venue": "Seminar Hall B",
+    "club": "AI/ML Society"
+  },
+  {
+    "name": "Robotics Workshop",
+    "date": "2026-06-20",
+    "time": "10:00",
+    "venue": "Mechatronics Lab",
+    "club": "Robotics Club"
+  },
+  {
+    "name": "Photography Walk",
+    "date": "2026-06-20",
+    "time": "06:00",
+    "venue": "Main Gate",
+    "club": "Photography Club"
+  },
+  {
+    "name": "Open Mic Evening",
+    "date": "2026-06-21",
+    "time": "18:30",
+    "venue": "Student Activity Center",
+    "club": "Literary Society"
+  },
+  {
+    "name": "Data Science Bootcamp",
+    "date": "2026-06-22",
+    "time": "09:00",
+    "venue": "Computer Center",
+    "club": "AI/ML Society"
+  },
+  {
+    "name": "Chess Tournament",
+    "date": "2026-06-22",
+    "time": "16:00",
+    "venue": "Recreation Hall",
+    "club": "Chess Club"
+  },
+  {
+    "name": "Startup Pitch Night",
+    "date": "2026-06-23",
+    "time": "17:00",
+    "venue": "Seminar Hall A",
+    "club": "Entrepreneurship Cell"
+  },
+  {
+    "name": "HackInTime 2026",
+    "date": "2026-06-25",
+    "time": "09:00",
+    "venue": "Main Auditorium",
+    "club": "Coding Club"
+  },
+  {
+    "name": "Web Development Workshop",
+    "date": "2026-06-25",
+    "time": "14:00",
+    "venue": "Computer Center",
+    "club": "Coding Club"
+  },
+  {
+    "name": "Drone Design Challenge",
+    "date": "2026-06-26",
+    "time": "11:00",
+    "venue": "Innovation Lab",
+    "club": "Robotics Club"
+  },
+  {
+    "name": "Finance and Investing 101",
+    "date": "2026-06-26",
+    "time": "17:30",
+    "venue": "Lecture Hall 3",
+    "club": "Finance Club"
+  },
+  {
+    "name": "Resume Review Drive",
+    "date": "2026-06-27",
+    "time": "10:00",
+    "venue": "Placement Office",
+    "club": "Career Development Cell"
+  },
+  {
+    "name": "Capture The Flag (CTF)",
+    "date": "2026-06-27",
+    "time": "13:00",
+    "venue": "Computer Center",
+    "club": "Cyber Security Club"
+  },
+  {
+    "name": "Cultural Night",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Open Air Theatre",
+    "club": "Cultural Committee"
+  },
+  {
+    "name": "Battle of Bands",
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Open Air Theatre",
+    "club": "Music Club"
+  },
+  {
+    "name": "Machine Learning Competition",
+    "date": "2026-06-30",
+    "time": "09:30",
+    "venue": "Computer Center",
+    "club": "AI/ML Society"
+  },
+  {
+    "name": "Mechanical CAD Workshop",
+    "date": "2026-06-30",
+    "time": "15:00",
+    "venue": "Mechanical Design Lab",
+    "club": "ASME Student Chapter"
+  }
+]

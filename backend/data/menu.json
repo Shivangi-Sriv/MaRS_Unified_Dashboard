@@ -1,0 +1,44 @@
+
+{
+  "Monday": {
+    "breakfast": "Aloo Paratha, Curd, Tea",
+    "lunch": "Rajma Chawal, Mixed Veg, Salad, Curd",
+    "dinner": "Paneer Butter Masala, Jeera Rice, Roti"
+  },
+
+  "Tuesday": {
+    "breakfast": "Poha, Banana, Tea",
+    "lunch": "Veg Biryani, Raita",
+    "dinner": "Aloo Gobi, Rice, Roti"
+  },
+
+  "Wednesday": {
+    "breakfast": "Idli, Sambar, Coconut Chutney",
+    "lunch": "Chole Bhature, Salad",
+    "dinner": "Dal Tadka, Rice, Roti"
+  },
+
+  "Thursday": {
+    "breakfast": "Upma, Tea, Boiled Eggs",
+    "lunch": "Pav Bhaji",
+    "dinner": "Kadhi Pakora, Rice"
+  },
+
+  "Friday": {
+    "breakfast": "Masala Dosa, Sambar",
+    "lunch": "Masala Dosa, Sambar, Coconut Chutney",
+    "dinner": "Veg Pulao, Dal Fry"
+  },
+
+  "Saturday": {
+    "breakfast": "Bread Omelette, Tea",
+    "lunch": "Pasta, Garlic Bread, Salad",
+    "dinner": "Chana Masala, Poori"
+  },
+
+  "Sunday": {
+    "breakfast": "Chole Bhature, Lassi",
+    "lunch": "Special North Indian Thali",
+    "dinner": "Fried Rice, Veg Manchurian"
+  }
+}

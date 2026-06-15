@@ -1,0 +1,130 @@
+[
+  { "title": "Theory of Machines",
+   "author": "R.S. Khurmi",
+   "available": true,
+   "copies": 3, 
+   "shelf": "ME-204" },
+  { "title": "Machine Design", 
+    "author": "Shigley",
+    "available": false,
+    "copies": 0, 
+    "shelf": "ME-211" },
+  { "title": "Introduction to Algorithms",
+    "author": "Cormen", 
+    "available": true, 
+    "copies": 2, 
+    "shelf": "CS-118" },
+  { "title": "Operating System Concepts", 
+    "author": "Silberschatz",
+    "available": true, 
+    "copies": 1, 
+    "shelf": "CS-140" },
+  { "title": "Fluid Mechanics", 
+    "author": "Frank White", 
+    "available": false, 
+    "copies": 0, 
+    "shelf": "ME-090" },
+  { "title": "Digital Logic and Computer Design", 
+    "author": "Morris Mano", 
+    "available": true, 
+    "copies": 4, 
+    "shelf": "EC-052" },
+  {
+  "title": "Engineering Mechanics",
+  "author": "R.C. Hibbeler",
+  "available": true,
+  "copies": 3,
+  "shelf": "ME-101"
+  },
+  {
+    "title": "Strength of Materials",
+    "author": "R.K. Rajput",
+    "available": true,
+    "copies": 2,
+    "shelf": "ME-115"
+  },
+  {
+    "title": "Thermodynamics",
+    "author": "P.K. Nag",
+    "available": true,
+    "copies": 4,
+    "shelf": "ME-130"
+  },
+  {
+    "title": "Heat Transfer",
+    "author": "Yunus Cengel",
+    "available": false,
+    "copies": 0,
+    "shelf": "ME-225"
+  },
+  {
+    "title": "Manufacturing Processes",
+    "author": "Kalpakjian",
+    "available": true,
+    "copies": 3,
+    "shelf": "ME-240"
+  },
+  {
+    "title": "Control Systems Engineering",
+    "author": "Norman Nise",
+    "available": true,
+    "copies": 2,
+    "shelf": "EE-201"
+  },
+  {
+    "title": "Signals and Systems",
+    "author": "Oppenheim",
+    "available": false,
+    "copies": 0,
+    "shelf": "EE-145"
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew Tanenbaum",
+    "available": true,
+    "copies": 5,
+    "shelf": "CS-210"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Korth",
+    "available": true,
+    "copies": 2,
+    "shelf": "CS-250"
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Russell and Norvig",
+    "available": true,
+    "copies": 3,
+    "shelf": "CS-310"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "available": false,
+    "copies": 0,
+    "shelf": "CS-320"
+  },
+  {
+    "title": "Probability and Statistics",
+    "author": "Jay Devore",
+    "available": true,
+    "copies": 4,
+    "shelf": "MA-102"
+  },
+  {
+    "title": "Linear Algebra and Its Applications",
+    "author": "Gilbert Strang",
+    "available": true,
+    "copies": 2,
+    "shelf": "MA-120"
+  },
+  {
+    "title": "Engineering Mathematics",
+    "author": "B.S. Grewal",
+    "available": true,
+    "copies": 6,
+    "shelf": "MA-001"
+  }
+]
